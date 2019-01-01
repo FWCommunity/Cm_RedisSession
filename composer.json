@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-      "colinmollenhour/php-redis-session-abstract": "~1.4.0"
+      "colinmollenhour/php-redis-session-abstract": "dev-master"
     },
     "suggest":{
         "magento-hackathon/magento-composer-installer":"Makes it possible to manage this package as a dependency"
